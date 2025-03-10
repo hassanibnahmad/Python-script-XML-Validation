@@ -19,3 +19,12 @@ Ce script permet de vérifier la syntaxe d'un fichier XML en utilisant le module
 2. Mettez à jour le chemin du fichier XML dans le script :
    ```python
    xml_file = "Python_script/exemple.xml"  # Remplacez par le chemin réel de votre fichier XML
+   ````
+Exécutez le script avec Python :
+   ````python
+   python script.py
+   ````
+
+## Auteur
+
+- [Hassan IBNAHMAD], étudiant en 3ème année du licence d'excellence en ingénierie logicielle à faculté des sciences de Agadir.
