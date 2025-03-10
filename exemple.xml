@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+    <client>
+        <id>1</id>
+        <nom>client_1</nom>
+        <email>client_1@gmail.com</email>
+    </client>
+
+    <client>
+        <id>2</id>
+        <nom>client_2</nom>
+        <email>client_2@gmail.com</email>
+    </client>
+
+    <client>
+        <id>3</id>
+        <nom>client_3</nom>
+        <email>client_3@gmail.com</email>
+    </client>
+</clients>
+
+pip install lxml xmlschema
